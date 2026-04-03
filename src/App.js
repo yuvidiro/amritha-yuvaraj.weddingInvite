@@ -1,5 +1,5 @@
 import Hero from "./components/Hero";
-import Statement from "./components/Statement";
+// import Statement from "./components/Statement";
 import Events from "./components/Events";
 import Venue from "./components/Venue";
 import Footer from "./components/Footer";
